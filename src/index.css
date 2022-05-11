@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI',
+    'Ubuntu',
+    sans-serif !important;
+
+  background: #131722 !important;
+  color: #fff !important;
+}
+
+nav .nav-link {
+  color: #fff !important;
+}
